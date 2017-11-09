@@ -4,7 +4,7 @@ import java.util.*;
 import java.lang.*;
 
 
-class huas {
+class nicebinary {
     public static int i;
    public static char[]k = new char[1000];
     
